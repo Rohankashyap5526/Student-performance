@@ -1,6 +1,6 @@
 # Student Performance Prediction Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_green_white.svg)](https://student-performancegit-rwfxcx6njyounmckzkgjft.streamlit.app/)
+Access the live app here: **[Student Performance Predictor](https://student-performancegit-rwfxcx6njyounmckzkgjft.streamlit.app/)**
 
 ##  Table of Contents
 - [Overview](#overview)
